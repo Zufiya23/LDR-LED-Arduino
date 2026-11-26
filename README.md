@@ -12,7 +12,7 @@ To automatically turn ON the LED in darkness and turn it OFF in light using an L
 - Breadboard + Jumper Wires
 
 ## Circuit Diagram
-![Circuit](circuit.png)
+![Circuit](circuit.png.png)
 
 ## How it Works
 1. LDR senses the light intensity and gives a value from 0 to 1023
